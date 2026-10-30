@@ -1,0 +1,6 @@
+{
+  "name": "Taller Don Ramiro — Control Operativo y Aprobación Bilateral",
+  "description": "Sistema industrial de diagnóstico mecánico, reporte de imprevistos con interfaz Manos Sucias y aprobación digital bilateral con firma inmutable.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
